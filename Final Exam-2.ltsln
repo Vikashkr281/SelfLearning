@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+# SharpDevelop 4.1.3.0
+Project("5C75AC07-0FBF-48A2-A616-14E11B8D710C") = "Orangehrmlive Load Test", "Orangehrmlive Load Test\Orangehrmlive Load Test.usr", "5C75AC07-0FBF-48A2-A616-14E11B8D710C"
+	ProjectSection(CustomLoading) = Data
+		Token = PD94bWwgdmVyc2lvbj0iMS4wIj8+DQo8UGVyc2lzdGVuY2VUb2tlbj4NCiAgPExvYWREYXRhPkM6XFVzZXJzXEFkbWluaXN0cmF0b3JcRGVza3RvcFxMb2FkcnVubmVyRmluYWwgRXhhbVxGaW5hbCBFeGFtLTJcT3JhbmdlaHJtbGl2ZSBMb2FkIFRlc3RcT3JhbmdlaHJtbGl2ZSBMb2FkIFRlc3QudXNyPC9Mb2FkRGF0YT4NCiAgPEZpbGVzPg0KICAgIDxGaWxlPkM6XFVzZXJzXEFkbWluaXN0cmF0b3JcRGVza3RvcFxMb2FkcnVubmVyRmluYWwgRXhhbVxGaW5hbCBFeGFtLTJcT3JhbmdlaHJtbGl2ZSBMb2FkIFRlc3RcT3JhbmdlaHJtbGl2ZSBMb2FkIFRlc3QudXNyPC9GaWxlPg0KICA8L0ZpbGVzPg0KICA8TW9kaWZpZWQ+MjAyNC0wMi0yNlQxMzo0MToxNi42OTMzOTY3KzA1OjMwPC9Nb2RpZmllZD4NCjwvUGVyc2lzdGVuY2VUb2tlbj4_
+	EndProjectSection
+	ProjectSection(ExpandInVugen) = Data
+		Value = True
+	EndProjectSection
+EndProject
+Project("DFD5F105-9DB2-41DC-B180-0BE96D719002") = "Orangehrmlive Smoketest WebHttpHtml1", "..\Orangehrmlive Smoketest WebHttpHtml1\Orangehrmlive Smoketest WebHttpHtml1.usr", "DFD5F105-9DB2-41DC-B180-0BE96D719002"
+	ProjectSection(CustomLoading) = Data
+		Token = PD94bWwgdmVyc2lvbj0iMS4wIj8+DQo8UGVyc2lzdGVuY2VUb2tlbj4NCiAgPExvYWREYXRhPkM6XFVzZXJzXEFkbWluaXN0cmF0b3JcRGVza3RvcFxMb2FkcnVubmVyRmluYWwgRXhhbVxPcmFuZ2Vocm1saXZlIFNtb2tldGVzdCBXZWJIdHRwSHRtbDFcT3JhbmdlaHJtbGl2ZSBTbW9rZXRlc3QgV2ViSHR0cEh0bWwxLnVzcjwvTG9hZERhdGE+DQogIDxGaWxlcz4NCiAgICA8RmlsZT5DOlxVc2Vyc1xBZG1pbmlzdHJhdG9yXERlc2t0b3BcTG9hZHJ1bm5lckZpbmFsIEV4YW1cT3JhbmdlaHJtbGl2ZSBTbW9rZXRlc3QgV2ViSHR0cEh0bWwxXE9yYW5nZWhybWxpdmUgU21va2V0ZXN0IFdlYkh0dHBIdG1sMS51c3I8L0ZpbGU+DQogIDwvRmlsZXM+DQogIDxNb2RpZmllZD4yMDI0LTAyLTI2VDE1OjU3OjA2LjYzODQ3MjcrMDU6MzA8L01vZGlmaWVkPg0KPC9QZXJzaXN0ZW5jZVRva2VuPg__
+	EndProjectSection
+	ProjectSection(ExpandInVugen) = Data
+		Value = True
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		5C75AC07-0FBF-48A2-A616-14E11B8D710C.Debug|Any CPU.Build.0 = Debug|Any CPU
+		5C75AC07-0FBF-48A2-A616-14E11B8D710C.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		5C75AC07-0FBF-48A2-A616-14E11B8D710C.Release|Any CPU.Build.0 = Release|Any CPU
+		5C75AC07-0FBF-48A2-A616-14E11B8D710C.Release|Any CPU.ActiveCfg = Release|Any CPU
+		DFD5F105-9DB2-41DC-B180-0BE96D719002.Debug|Any CPU.Build.0 = Debug|Any CPU
+		DFD5F105-9DB2-41DC-B180-0BE96D719002.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		DFD5F105-9DB2-41DC-B180-0BE96D719002.Release|Any CPU.Build.0 = Release|Any CPU
+		DFD5F105-9DB2-41DC-B180-0BE96D719002.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal
